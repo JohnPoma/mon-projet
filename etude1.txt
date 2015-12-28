@@ -1,0 +1,8 @@
+	Etude sur les contenus de  notre site
+		-il sera constituÃ© d'une en-tete permettant de bien naviguer dans notre site
+		-des articles (parlant de la politique et migration)
+	        -nous placerons dans notre pied de page tous nos contacts
+					               developpons point par point
+						       1.le menu de navigation :il sera constituÃ© de 3 boutons ayant de roles differents et une case de recherche
+						       2.articles:certains articles seront tirÃ©s sur france24.fr et d'autres sur BBC 
+
